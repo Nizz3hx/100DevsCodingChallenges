@@ -10,5 +10,5 @@ function takesName(){
   aNamePosition = newNamesArr.indexOf(inputName)
 
   document.querySelector('#position').innerText = aNamePosition
-
+// Still working on this
 }
